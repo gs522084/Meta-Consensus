@@ -1,13 +1,13 @@
 markdown
 # Meta-Consensus
 
-### The Protocol for Emergent, Self-Evolving Intelligence
-
-> **We are not seeking consensus. We are building the machine that seeks consensus.**
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gs522084/meta-consensus/pulls)
 [![Discussions](https://img.shields.io/badge/Join-The_Meta_Discussion-blue)](https://github.com/gs522084/meta-consensus/discussions)
+
+### The Protocol for Emergent, Self-Evolving Intelligence
+
+> **We are not seeking consensus. We are building the machine that seeks consensus.**
 
 ## 🧠 What is Meta-Consensus?
 
